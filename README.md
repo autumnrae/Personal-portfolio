@@ -1,2 +1,2 @@
-# Personal-portfolio
+# My Personal Portfolio Project
  My first techdegree project
